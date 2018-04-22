@@ -1,1 +1,21 @@
-theme: jekyll-theme-dinky
+# Site settings
+title: Nico Albers
+# email: youremailaddress@gmail.com
+description: My Webseite as overview.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Identity
+your-name: Nico Albers
+your-title: Mathematician | Data Scientist | Programming Enthusiast
+
+# Social settings
+# these have to be added to footer.html as font awesome class
+# facebook_url: https://facebook.com
+github_url: https://github.com/nicoa
+linkedin_url: https://www.linkedin.com/in/albersnicohamburg/
+twitter_url: https://twitter.com/nico_albers
+xing_url: https://www.xing.com/profile/Nico_Albers2
+
+# Build settings
+markdown: kramdown
